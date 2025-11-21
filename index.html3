@@ -1,10 +1,25 @@
+<DOCTYPE html>
 <html>
   <head>
     <meta charset="utf-8">
   </head>
   <body>
-    <h1 style=color:tomato; text-align: center;"Giới thiệu</h1>
-    <img scr ="image/unamed.jg
-     
-  </body>
+    <h1 style=color:tomato; text-align: center;">
+Giới thiệu
+</h1>
+  <table>
+  <tr>
+    <td width= "30%" style="text-align: center; vertcal-align: top;">
+      <img scr ="image/unamed.jpg" width="180" height="270">
+</td>
+  <td>
+<h2 style = "colotr : red; " > Sở trường </h2>
+ Ăn
+<h2 style = "colotr : red; " > Sở thích </h2>
+ Ngủ
+<h2 style = "colotr : red; " > Sở đoản </h2>
+ Ngủ nhiều      
+</tr>
+</table>
+</body>
 </html>
