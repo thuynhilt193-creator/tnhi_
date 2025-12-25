@@ -1,7 +1,8 @@
 <html>
   <head>
     <meta charset = "utf-8" >
-    
+    <style>
+      td {text-align: center; }
   </head>
   <body>
     <h1>THỜI KHOÁ BIỂU</h1>
@@ -21,9 +22,19 @@
       <tr>
         <td>4</td> <td>QPAN</td> <td>Tiếng Anh</td>
       </tr>
-      <tr>
+      <tr> 
         <td colspan = "3">BUỔI CHIỀU</td>
       </tr>
+    <tr>
+      <td>5/td> <td>Sử</td> <td>Hóa</td>
+      </tr>
+      <tr>
+     td>2/td> <td>GDĐP</td> <td>Tiếng Anh</td>
+       </tr>
+      <tr>
+  td>3/td> <td>Hóa</td> <td>Tự chọn</td>
+   </tr>
+      <tr>
     </table>
   </body>
 </html>
