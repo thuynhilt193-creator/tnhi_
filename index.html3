@@ -5,8 +5,8 @@
   <body>
     BÀI TẬP
     <ol>
-      <li> <a href="gioithieubanthan.html" target="_blank"> Giới thiệu</a>  </li>
-      <li> <a href="thoikhoabieu.html"> Thời khoá biểu</a> </li>
+      <li> <a href="contents/gioithieubanthan.html" target="_blank"> Giới thiệu</a>  </li>
+      <li> <a href="contents/thoikhoabieu.html"> Thời khoá biểu</a> </li>
       <li> Teachable machine </li>
       <li> Trường tôi </li>
     </ol>
